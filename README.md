@@ -1,7 +1,7 @@
 <div align="center">
 
   
-##Throne And Liberty 모작
+##Throne And Liberty
 
 
 ![image](https://i.imgur.com/jEKG7Vg.jpeg)
