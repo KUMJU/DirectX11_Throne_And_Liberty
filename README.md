@@ -1,9 +1,5 @@
 ## Throne And Liberty 모작
 
-
-![image](https://i.imgur.com/jEKG7Vg.jpeg)
-
-
 >영상 링크
 
 https://youtu.be/tNJJos6KkGw
@@ -22,14 +18,13 @@ https://youtu.be/tNJJos6KkGw
 
 7명
 
-
-
+<br/>
 
 >언어 / 환경 
 
 C++ 17, HLSL 5.0 / Visual Studio, Github(코드 관리), Trello(일정 관리 툴)
 
-
+<br/>
 
 
 >팀원
