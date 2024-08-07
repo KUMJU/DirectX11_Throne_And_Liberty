@@ -7,21 +7,23 @@
 ![image](https://i.imgur.com/jEKG7Vg.jpeg)
 
 
->영상 링크
+*영상 링크
 
 https://youtu.be/tNJJos6KkGw
 
->제작 기간
+*제작 기간
 
 2024.03.18~ 2024.05.20(63일)
 
->제작 인원
+*제작 인원
 
 7명
 
--언어 / 환경 : C++ 17, HLSL 5.0 / Visual Studio, Github(코드 관리), Trello(일정 관리 툴)
+*언어 / 환경 
 
--팀원
+C++ 17, HLSL 5.0 / Visual Studio, Github(코드 관리), Trello(일정 관리 툴)
+
+*팀원
 
 황금주 : 팀장, 프레임워크, 메인 셰이더, 조명
 
