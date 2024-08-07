@@ -10,9 +10,11 @@ https://youtu.be/tNJJos6KkGw
 
 
 
+
 >제작 기간
 
 2024.03.18~ 2024.05.20(63일)
+
 
 
 
@@ -22,9 +24,11 @@ https://youtu.be/tNJJos6KkGw
 
 
 
+
 >언어 / 환경 
 
 C++ 17, HLSL 5.0 / Visual Studio, Github(코드 관리), Trello(일정 관리 툴)
+
 
 
 
